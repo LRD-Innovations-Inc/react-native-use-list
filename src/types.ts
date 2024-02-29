@@ -1,10 +1,12 @@
 import type { RefObject } from 'react';
 import type { FlatList, SectionList, VirtualizedList } from 'react-native';
+import type { FlashList } from '@shopify/flash-list';
 
 export type ListReference =
   | RefObject<FlatList>
   | RefObject<VirtualizedList<any>>
-  | RefObject<SectionList>;
+  | RefObject<SectionList>
+  | RefObject<FlashList<any>>;
 
 export type Options = {
   debugMode?: boolean;

@@ -1,1 +1,0 @@
-{"version":3,"names":["isVirtualizedList","x","current","props","isSectionList"],"sourceRoot":"../../src","sources":["utils.ts"],"mappings":";;;;;;;AAEO,SAASA,iBAAiBA,CAACC,CAAgB,EAAE;EAClD,OAAOA,CAAC,CAACC,OAAO,IAAI,cAAc,IAAID,CAAC,CAACC,OAAO,CAACC,KAAK;AACvD;AACO,SAASC,aAAaA,CAACH,CAAgB,EAAE;EAC9C,OAAOA,CAAC,CAACC,OAAO,IAAI,UAAU,IAAID,CAAC,CAACC,OAAO,CAACC,KAAK;AACnD"}
